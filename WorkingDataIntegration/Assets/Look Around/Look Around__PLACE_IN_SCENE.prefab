@@ -1,0 +1,291 @@
+- !<ObjectPrefab/1e743845-7629-4579-8714-fd8777ab2fc8>
+  PackagePath: ""
+  objects:
+    - !<own> aec31006-b1e9-4ab9-91c1-d2adfe991fcb
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/1d922246-c96c-44bc-bad1-f0e0e2060c64>
+  PrefabRemaps:
+    []
+  Name: chick_lo
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.016896, y: 46.029701, z: -0.160642}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 56.409119, y: 56.409119, z: 56.409119}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f501
+- !<SceneObject/2bc51d8b-1f4a-7b44-0d05-f5c96561f4f7>
+  PrefabRemaps:
+    []
+  Name: chick_lo
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.016896, y: 46.029701, z: -0.160642}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 56.409119, y: 56.409119, z: 56.409119}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 34da4cf1-05c1-455c-bfb0-5ba4580ee2b8
+- !<SceneObject/2bc51d8b-1f4a-7b44-0d05-f5c96561f4fa>
+  PrefabRemaps:
+    []
+  Name: chick_lo
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.016896, y: 46.029701, z: -0.160642}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 56.409119, y: 56.409119, z: 56.409119}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f4fb
+- !<RenderMeshVisual/2bc51d8b-1f4a-7b44-0d05-f5c96561f4fb>
+  PrefabRemaps:
+    []
+  Name: component_48
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b0ad9bfe-173d-4358-8ab5-3adc7dc77413
+  Mesh: !<reference> 7f65a10e-bab8-448e-a21e-aadb19d06ad8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2bc51d8b-1f4a-7b44-0d05-f5c96561f4fd>
+  PrefabRemaps:
+    []
+  Name: chick_lo
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.016896, y: 46.029701, z: -0.160642}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 56.409119, y: 56.409119, z: 56.409119}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f4fe
+- !<RenderMeshVisual/2bc51d8b-1f4a-7b44-0d05-f5c96561f4fe>
+  PrefabRemaps:
+    []
+  Name: component_48
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b0ad9bfe-173d-4358-8ab5-3adc7dc77413
+  Mesh: !<reference> 7f65a10e-bab8-448e-a21e-aadb19d06ad8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/2bc51d8b-1f4a-7b44-0d05-f5c96561f501>
+  PrefabRemaps:
+    []
+  Name: component_48
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b0ad9bfe-173d-4358-8ab5-3adc7dc77413
+  Mesh: !<reference> 7f65a10e-bab8-448e-a21e-aadb19d06ad8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2bc51d8b-1f4a-7b44-0d05-f5c96561f503>
+  PrefabRemaps:
+    []
+  Name: chick_lo
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.016896, y: 46.029701, z: -0.160642}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 56.409119, y: 56.409119, z: 56.409119}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f504
+- !<RenderMeshVisual/2bc51d8b-1f4a-7b44-0d05-f5c96561f504>
+  PrefabRemaps:
+    []
+  Name: component_48
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b0ad9bfe-173d-4358-8ab5-3adc7dc77413
+  Mesh: !<reference> 7f65a10e-bab8-448e-a21e-aadb19d06ad8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/34da4cf1-05c1-455c-bfb0-5ba4580ee2b8>
+  PrefabRemaps:
+    []
+  Name: component_48
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b0ad9bfe-173d-4358-8ab5-3adc7dc77413
+  Mesh: !<reference> 7f65a10e-bab8-448e-a21e-aadb19d06ad8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/55480698-4acf-413c-8fcc-69f36e024408>
+  PrefabRemaps:
+    []
+  Name: "Chick_FBX [REPLACE_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -65.281166, y: -5.000000, z: 83.610939}
+    rotation: {x: 177.301346, y: 37.981754, z: -180.000000}
+    scale: {x: 0.200000, y: 0.200000, z: 0.200000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1d922246-c96c-44bc-bad1-f0e0e2060c64
+  Components:
+    []
+- !<SceneObject/5b0bf83f-ae1c-446f-9884-e777f8703a72>
+  PrefabRemaps:
+    []
+  Name: "Chick_FBX [REPLACE_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 60.000000, y: 0.000000, z: 97.244919}
+    rotation: {x: 180.000000, y: -31.674545, z: 180.000000}
+    scale: {x: 0.250000, y: 0.250000, z: 0.250000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f4fd
+  Components:
+    []
+- !<SceneObject/6e1c2e79-2fa3-41fc-930e-5c6c8ae63e08>
+  PrefabRemaps:
+    []
+  Name: "Chick_FBX [REPLACE_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -16.420891, z: -143.551498}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 0.300000, y: 0.300000, z: 0.300000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f4f7
+  Components:
+    []
+- !<SceneObject/aec31006-b1e9-4ab9-91c1-d2adfe991fcb>
+  PrefabRemaps:
+    []
+  Name: Look Around__PLACE_IN_SCENE
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6e1c2e79-2fa3-41fc-930e-5c6c8ae63e08
+    - !<own> dcdf8ec0-c677-4c69-882c-77ad95e4b985
+    - !<own> 5b0bf83f-ae1c-446f-9884-e777f8703a72
+    - !<own> 55480698-4acf-413c-8fcc-69f36e024408
+    - !<own> ef356a7a-7ef0-450d-8105-73b113d54eeb
+  Components:
+    - !<own> e7d2e811-8232-478a-95e7-0db085d324db
+- !<SceneObject/dcdf8ec0-c677-4c69-882c-77ad95e4b985>
+  PrefabRemaps:
+    []
+  Name: "Chick_FBX [REPLACE_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 111.683182, y: 7.798943, z: -30.000000}
+    rotation: {x: 3.858198, y: -74.964348, z: 0.000000}
+    scale: {x: 0.200000, y: 0.200000, z: 0.200000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f4fa
+  Components:
+    []
+- !<ScriptComponent/e7d2e811-8232-478a-95e7-0db085d324db>
+  PrefabRemaps:
+    []
+  Name: LookAroundController
+  Enabled: true
+  ScriptAsset: !<reference> 79536bd9-6639-49ec-bfbc-eb4cabba02b1
+  ScriptInputsDefault:
+    {}
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      {}
+  ScriptTypes:
+    "":
+      {}
+- !<SceneObject/ef356a7a-7ef0-450d-8105-73b113d54eeb>
+  PrefabRemaps:
+    []
+  Name: "Chick_FBX [REPLACE_ME]"
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: -110.987244, y: -14.516916, z: -40.246933}
+    rotation: {x: -7.010075, y: 70.068047, z: -0.000000}
+    scale: {x: 0.230000, y: 0.230000, z: 0.230000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2bc51d8b-1f4a-7b44-0d05-f5c96561f503
+  Components:
+    []

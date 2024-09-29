@@ -1,0 +1,18 @@
+- !<AssetImportMetadata/c77585a5-8180-4e8f-b8fe-6989f588c0f8>
+  ImportedAssetIds:
+    .hidden/Asset.CloudStorageModule: !<reference> ae4c22b1-5538-4632-be8b-269ad8c2eedb
+    .hidden/Asset1.CloudStorageModule: !<reference> d9992e58-0d93-489c-a973-31d76c7afff4
+    Content Storage/Content Storage: !<reference> 6ef0aaf8-e587-4d6e-af48-9bcf1f7b3037
+    Content Storage/Location Asset Proxy: !<reference> a2ca49a4-e440-476b-88e4-51a47d82ac63
+    Content Storage/Location Cloud Storage Module: !<reference> b5211d85-bd96-4e55-99b1-8250df61b2a3
+  ImporterName: LensCoreImporter
+  PrimaryAsset: !<reference> 6ef0aaf8-e587-4d6e-af48-9bcf1f7b3037
+  PackageType: LegacyPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    {}
+  DependentFiles:
+    []
+  ImporterSettings: !<LensCoreImporterSettings/1d237404-542d-483b-a01f-fad56910d7bf>
+    PersistentIdGenerationAlgorithm: DescriptorBased
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
